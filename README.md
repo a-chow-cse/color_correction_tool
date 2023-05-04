@@ -10,6 +10,7 @@ Output: ![Image Name](./output/after_color_correction_30.PNG)
     - have to rewrite code in a python file 
     - organize and make a single main file
     - have to find a way to segment boxes out of the color checker
+    - Train for more time? how to know when to stop?
 ```
 python start.py
 ```

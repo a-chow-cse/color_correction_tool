@@ -1,1 +1,3 @@
-crop.png full.png
+4.May/edge_whole_color_checker.png 4.May/edge_138877_VR.png
+4.May/whole_color_checker.png 4.May/138877_VR.JPG
+4.May/whole_color_checker.png 4.May/138998_VR.JPG
